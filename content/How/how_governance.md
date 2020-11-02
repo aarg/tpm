@@ -61,6 +61,7 @@ There are plenty of tools available to do all of the above things, but the main 
 #### Email aliases
 
 Depending on the project , you may need to create various email aliases for information distribution. Too many granular lists can be hard to manage and too little could lead to information overload. Start with thinking about what kind of information would you like to share on regular basis. I’d recommend to start with at least 3 kinds of email aliases and adjust it later as the project progresses:
+
   * *<project_name>-leads@*
     * Purpose: Leads discussion, escalations, sensitive discussions ...
     * Members: Typically, this will consist of PM, TPM, TL, TLM, and UX lead
@@ -75,6 +76,7 @@ Depending on the project , you may need to create various email aliases for info
 
 Depending on the project, you may need to create various meetings to smoothly
 run the project. Here’s an example of the structure of the meetings you might want to create at the start of the project:  
+
   * Leads weekly sync
   * Core team weekly sync  
   * Partner team(s) sync
