@@ -13,7 +13,7 @@ This website was built using [Hugo](https://gohugo.io/about/what-is-hugo/), the 
 
 
 ## Website hosting
-This Website is hosted using Hugo on [Netlify](https://www.netlify.com/). Netlify offers a direct integration with [Github](https://github.com/aarg/tpm) and a continuous deployment set up. 
+This website is hosted using Hugo on [Netlify](https://www.netlify.com/). Netlify offers a direct integration with [Github](https://github.com/aarg/tpm) and a continuous deployment set up. 
 
 
 ## Editor
