@@ -9,7 +9,7 @@ pygmentsStyle = "monokailight"
 
 
 # Enable Google Analytics by entering your tracking id
-googleAnalytics = "XX-XXXXXXXXX-X"
+googleAnalytics = "G-KRWTR7MV1L"
 
 [params]
 ordersectionsby = "weight" # ordersectionsby = "title"
