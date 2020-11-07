@@ -1,4 +1,4 @@
-baseURL = "beingatpm.com"
+baseURL = "http://beingatpm.com"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
