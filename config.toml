@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "beingatpm.com"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -10,6 +10,7 @@ pygmentsStyle = "monokailight"
 
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = "G-KRWTR7MV1L"
+enableRobotsTXT = true
 
 [params]
 ordersectionsby = "weight" # ordersectionsby = "title"
