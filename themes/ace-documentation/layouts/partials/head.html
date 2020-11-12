@@ -21,5 +21,6 @@
     {{ if eq hugo.Environment "production" }}
         {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
-
+    {{ template "_internal/google_analytics.html" . }}
+    {{ template "_internal/google_analytics_async.html" . }}
 </head>
