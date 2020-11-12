@@ -1,16 +1,15 @@
 baseURL = "https://beingatpm.com/"
 
+# Enable Google Analytics by entering your tracking id
+GoogleAnalytics = "UA-51731059-2"
+enableRobotsTXT = true
+
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Technical Program Manager"
 theme = "ace-documentation"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
-
-
-# Enable Google Analytics by entering your tracking id
-googleAnalytics = "G-KRWTR7MV1L"
-enableRobotsTXT = true
 
 [params]
 ordersectionsby = "weight" # ordersectionsby = "title"
