@@ -1,10 +1,10 @@
-baseURL = "https://beingatpm.com/"
+baseURL = "https://beingatpm.com"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Technical Program Manager"
 theme = "ace-documentation"
-pygmentsCodeFences = true
+pygmentsCodeFences = tru
 pygmentsStyle = "monokailight"
 
 
