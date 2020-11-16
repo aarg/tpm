@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Being Successful on Technical Program Manager</title>
+    <link>https://beingatpm.com/how/</link>
+    <description>Recent content in Being Successful on Technical Program Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Sep 2020 15:03:05 -0700</lastBuildDate><atom:link href="https://beingatpm.com/how/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to start a new project</title>
+      <link>https://beingatpm.com/how/how_governance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beingatpm.com/how/how_governance/</guid>
+      <description>At the start of a project, there are plenty of unknowns. A TPM plays a crucial role to organize and set up the project structure right from the start. It’s very important to set up the execution structure right at the beginning as it becomes exponentially difficult to create new processes later on. At the initial phase of the project, a TPM would organize all the available information, get the teams together, provide tools and mechanisms for the teams to share information, and make progress.</description>
+    </item>
+    
+    <item>
+      <title>Team Processes</title>
+      <link>https://beingatpm.com/how/team_process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beingatpm.com/how/team_process/</guid>
+      <description>As a TPM, sometimes you are expected to run various team-wide processes that are not specific to one project, but rather impacts entire Engineering and Product teams. These processes define the team culture, enforces good practices, and helps the team make progress in a meaningful way. TPMs are generally well situated in the org to drive these processes as it requires collaboration across various functions. n this section, we will review a few of such processes, meetings associated with them, and the role of a TPM.</description>
+    </item>
+    
+    <item>
+      <title>Meetings</title>
+      <link>https://beingatpm.com/how/meetings/</link>
+      <pubDate>Mon, 07 Sep 2020 15:03:05 -0700</pubDate>
+      
+      <guid>https://beingatpm.com/how/meetings/</guid>
+      <description>Image Attribution: Business vector created by pch.vector - www.freepik.com
+ In a typical Software organization, a TPM collaborates with a team(s) of software engineers, product managers, tech leads, engineering managers, and various other folks from different functional groups. All these cross-functional groups need to be working together to deliver a common objective. Meetings are one of the most efficient tools for TPM to bring people together and make progress. However, people dread meetings, sometimes meetings take time away from productive work time.</description>
+    </item>
+    
+    <item>
+      <title>Bug Tracking</title>
+      <link>https://beingatpm.com/how/bugs_tracking/</link>
+      <pubDate>Sun, 23 Aug 2020 12:08:02 -0700</pubDate>
+      
+      <guid>https://beingatpm.com/how/bugs_tracking/</guid>
+      <description>Bugs (defects or features) Tracking In most of the organization, Software Engineering teams are organized into logical groups e.g backend infrastructure, feature backend, frontend infra and UIs, feature teams, etc…Whereas, most of the projects would require work across many Engineering teams. As a TPM, your role is to create a structure and organize the work across teams to hit project milestones as per timelines defined by you. Apart from your Project trackers (Spreadsheets, MS Project, Asana, etc…), a bug tracking tool is an essential element of project tracking.</description>
+    </item>
+    
+  </channel>
+</rss>

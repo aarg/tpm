@@ -1,6 +1,7 @@
 +++
 title = "What does TPM do"
-description = ""
+description = "This section goes into the details of what does a TPM do. It's divided into two parts: First part explains the role of a generic Software program manager and the second part explains the differences between TPM, PgM, PM and TL"
+tags = [ "TPM", "PgM", "PM", "TLM", "Role of TPM" ]
 weight = 1
 +++
 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What does TPM do on Technical Program Manager</title>
+    <link>https://beingatpm.com/what/</link>
+    <description>Recent content in What does TPM do on Technical Program Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://beingatpm.com/what/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TPM Role</title>
+      <link>https://beingatpm.com/what/tpm_role/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beingatpm.com/what/tpm_role/</guid>
+      <description>What does a TPM do? TPM’s role can be very diverse, it can vary in different organizations. Many times the role changes depending on the phase of the project. This provides a lot of freedom to TPMs to do their job, but it also makes it harder to define success. Navigating the ambiguity of the role can sometimes be challenging. In this section, we will cover a few examples of things and activities that a TPM does in their day-to-day operations.</description>
+    </item>
+    
+    <item>
+      <title>PM, PgM, TPM vs TL</title>
+      <link>https://beingatpm.com/what/roles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beingatpm.com/what/roles/</guid>
+      <description>From Michael Lopp&amp;rsquo;s randsinrepose.com blog:
+A program manager is an uber-mutated combination of both that usually shows up to handle multiple interrelated projects like, say, an operating system. Different companies use the names differently, but for this article, project = ship the product, product = ship the right product, and program = ship many interrelated products, usually at the same time     PM: Product Manager Product Manager is responsible for defining what needs to happen and why.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,8 @@
----
-title: 'On being a Technical Program Manager'
-date: 2018-11-28T15:14:39+10:00
----
++++
+title = "On being a Technical Program Manager"
+description = "Learn more about the role of a Technical Program Manager"
+tags = [ "TPM", "Technical Program Manager", "Program Manager", "Engineering Program Manager" ]
++++
 
 {{< lead >}}
 Program managers make things happen, they get the projects done. They create scalable processes that help teams make tangible progress towards project goals. This site discusses the role of a (Technical) Program Manager, explains what they do and how. This site focuses on the role of a Technical Program Manager in a fast-paced software development environment.
