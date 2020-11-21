@@ -1,6 +1,6 @@
 +++
 title = "PM, PgM, TPM vs TL"
-description = "PM vs TPM and other related roles"
+description = "Compare PM, PgM, TPM and other related roles"
 tags = [ "TPM", "PM", "PgM", "TL", "TPM" ]
 weight = 4
 +++
