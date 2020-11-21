@@ -1,7 +1,10 @@
----
-title: "PM, PgM, TPM vs TL"
-weight: 4
----
++++
+title = "PM, PgM, TPM vs TL"
+description = "PM vs TPM and other related roles"
+tags = [ "TPM", "PM", "PgM", "TL", "TPM" ]
+weight = 4
++++
+
 
 From Michael Lopp's randsinrepose.com [blog](https://randsinrepose.com/archives/entropy-crushers/):
 

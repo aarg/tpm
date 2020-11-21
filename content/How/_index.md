@@ -1,6 +1,7 @@
 +++
 title = "Being Successful"
-description = ""
+description = "Learn more about how to be successful in the role of a Technical Program Manager"
+tags = [ "TPM", "Technical Program Manager", "Program Manager" ]
 weight = 2
 +++
 

@@ -1,7 +1,10 @@
----
-title: "Bug Tracking"
-date: 2020-08-23T12:08:02-07:00
----
++++
+title = "Bug Tracking"
+description = "How to design bug tracking process"
+tags = [ "TPM", "Jira", "Bug tracking", "Reporting" ]
+weight = 2
++++
+
 
 <div class="align-left py-4">
   <img src="/bugs_tracking.png" class="img-fluid " alt="Roles">
@@ -21,7 +24,7 @@ design the workflow for a bug tracking tool:
 
 ### People and interactions
 
-Stakeholders use bug tracking tools in different ways. Engineering managers are interested in things like Next priorities, their team’s current workload, the velocity of the team, what needs to get done by when. PMs are interested in knowing what all is remaining to complete the feature, when will it get done, and if anything is blocked. Release managers want to know what all is checked-into the binary, is the binary ready to be released.
+Stakeholders use bug tracking tools in different ways. Engineering managers are interested in next priorities, their team’s current workload, the velocity of the team, what needs to get done by when. PMs are interested in knowing what all is remaining to complete the feature, when will it get done, and if anything is blocked. Release managers want to know what all is checked-into the binary, is the binary ready to be released.
 
 In a complex organization, it may take several layers of triage before a bug gets to the right Engineer. It’s important to have a defined consistent process for how does the bug flow through various levels of triage and eng teams. Optimize of speed and accuracy - getting these things wrong has an associate cost. Sometimes, it’s best to create a clear runway for high priority/production bugs, whereas it might be ok for normal priority bugs to follow a regular workflow.
 

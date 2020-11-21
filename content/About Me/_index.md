@@ -1,7 +1,7 @@
 +++
 title = "About Me"
 description = ""
-weight = 2
+weight = 4
 +++
 
 {{< lead >}}

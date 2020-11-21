@@ -1,7 +1,9 @@
----
-title: "Meetings"
-date: 2020-09-07T15:03:05-07:00
----
++++
+title = "Meetings"
+description = "How to design effective meetings structure"
+tags = [ "Team meetings" ]
++++
+
 
 <div class="text-center">
   <img src="/meetings.png" class="img-fluid" " alt="TPM Role">
