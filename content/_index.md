@@ -22,7 +22,7 @@ Program managers wear different hats depending on the situation, the role has so
 ## Learn More
 <div class="row py-3 mb-5">
 	<div class="col">
-		<div class="card flex-row border-0">
+		<div class="card flex-row border-0 text-center">
 			<div class="mt-3">
 				<span class="fas fa-users-cog fa-2x text-primary"></span>
 			</div>
@@ -34,11 +34,12 @@ Program managers wear different hats depending on the situation, the role has so
 					This section describes the role of a TPM and how is it different from other leads in the team
           <a href="/what" class="stretched-link"></a>
 				</p>
+				<a href="/what" class="btn btn-primary">What's the role</a>
 			</div>
 		</div>
 	</div>
 	<div class="col">
-		<div class="card flex-row border-0">
+		<div class="card flex-row border-0 text-center">
 			<div class="mt-3">
 				<span class="fas fa-project-diagram fa-2x text-primary"></span>
 			</div>
@@ -47,9 +48,10 @@ Program managers wear different hats depending on the situation, the role has so
 					Being Successful
 				</h5>
 				<p class="card-text text-muted">
-					This section describes how to be successful at your job as TPM
+					This section describes how to be successful at your job as a TPM
           <a href="/how" class="stretched-link"></a>
 				</p>
+				<a href="/how" class="btn btn-primary">How to be a successful TPM</a>
 			</div>
 		</div>
 	</div>

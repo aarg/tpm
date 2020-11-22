@@ -1,6 +1,6 @@
 +++
 title = "Team Processes"
-weight = 2
+weight = 4
 +++
 
 <div class="text-center">
