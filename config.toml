@@ -15,7 +15,7 @@ pygmentsStyle = "monokailight"
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableSearch = false # default is false
 disableReadmoreNav = false # set true to hide prev/next navigation, default is false
-highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+highlightClientSide = true # set true to use highlight.pack.js instead of the default hugo chroma highlighter
 menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
 
 [markup]

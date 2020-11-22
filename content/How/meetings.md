@@ -2,6 +2,7 @@
 title = "Meetings"
 description = "How to design effective meetings structure"
 tags = [ "Team meetings" ]
+weight = 3
 +++
 
 

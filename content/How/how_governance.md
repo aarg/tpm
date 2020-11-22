@@ -7,6 +7,7 @@ weight = 1
   <img src="/project_start.png" class="img-fluid " alt="Roles">
 </div>
 
+<br>
 At the start of a project, there are plenty of unknowns. A TPM plays a crucial role to organize and set up the project structure right from the start. It’s very important to set up the execution structure right at the beginning as it becomes exponentially difficult to create new processes later on. At the initial phase of the project, a TPM would organize all the available information, get the teams together, provide tools and mechanisms for the teams to share information, and make progress. The goal of this document is to explain how does a TPM standardizes the common practices so that the rest of the team can focus on getting things done.
 
 This standardization is also known as setting up a Governance or an Execution Structure for the team.
