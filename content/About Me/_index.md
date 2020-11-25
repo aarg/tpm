@@ -2,6 +2,7 @@
 title = "About Me"
 description = ""
 weight = 4
+disableReadmoreNav = true
 +++
 
 {{< lead >}}

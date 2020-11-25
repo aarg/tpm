@@ -17,6 +17,9 @@ disableSearch = false # default is false
 disableReadmoreNav = false # set true to hide prev/next navigation, default is false
 highlightClientSide = true # set true to use highlight.pack.js instead of the default hugo chroma highlighter
 menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
+disqus = "beingatpm-com"
+GithubEdit = "https://github.com/aarg/tpm/edit/master/content/"
+
 
 [markup]
   [markup.goldmark]
