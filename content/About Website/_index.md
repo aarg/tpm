@@ -13,7 +13,7 @@ This website was built using [Hugo](https://gohugo.io/about/what-is-hugo/), the 
 
 
 ## Website hosting
-This website is hosted using Hugo on [Netlify](https://www.netlify.com/). Netlify offers a direct integration with [Github](https://github.com/aarg/tpm) and a continuous deployment set up. 
+This website is hosted using Hugo on [Netlify](https://www.netlify.com/). Netlify offers a direct integration with [Github](https://github.com/aarg/tpm) and a continuous deployment set up.
 
 
 ## Editor
@@ -25,3 +25,7 @@ Most of the illustrations are created using [Figma](https://www.figma.com/). Ill
   * [Vector Character Illustrations](https://www.figma.com/community/file/865151903316043704)
   * [Hitu Illustration Components](https://www.figma.com/file/bzQX2VvJj9KM07n6w0gKFq/Hitu-Illustration-Components-(Community)?node-id=185%3A569)
   * [Product Planner](https://www.figma.com/community/plugin/766652281834442616/Product-Planner)
+
+## Got feedback
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdTX5N5qVAqZxSYPMn1fS928PM818aP-p0ErJWczKugyQm6CQ/viewform?embedded=true" width="640" height="950" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

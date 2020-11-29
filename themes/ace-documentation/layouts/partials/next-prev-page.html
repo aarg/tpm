@@ -48,8 +48,8 @@
 <div class="d-flex justify-content-center" >
   {{ $.Scratch.Set "FilePath" .File.Path }}
   {{ with .Site.Params.GithubEdit}}
-        <a class="p-3 d-inline-block text-muted" href="{{ . }}{{ $.Scratch.Get "FilePath"}}" ><i class="fas fa-edit"> </i> Improve this page</a>
+        <a class="p-3 d-inline-block text-muted font-weight-light small text-monospace" href="{{ . }}{{ $.Scratch.Get "FilePath"}}" ><i class="fas fa-edit"> </i> Improve this page</a>
+        <a class="p-3 d-inline-block text-muted font-weight-light small text-monospace" href="https://forms.gle/Cf6S77ngdi6PvPFKA">  Send Feedback</a>
   {{ end }}
 </div>
-
 <!--{{ partial "disqus" . }}-->
