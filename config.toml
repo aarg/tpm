@@ -11,14 +11,16 @@ theme = "ace-documentation"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
+
 [params]
 ordersectionsby = "weight" # ordersectionsby = "title"
-disableSearch = false # default is false
+disableSearch = true # default is false
 disableReadmoreNav = false # set true to hide prev/next navigation, default is false
 highlightClientSide = true # set true to use highlight.pack.js instead of the default hugo chroma highlighter
 menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
 disqus = "beingatpm-com"
 GithubEdit = "https://github.com/aarg/tpm/edit/master/content/"
+site_logo = "/logo.svg"
 
 
 [markup]
@@ -38,6 +40,3 @@ weight = 10
 name = "<i class='fab fa-linkedin'></i>"
 url = "https://www.linkedin.com/in/rohit-gandhi-tpm/"
 weight = 10
-
-# Logo
-site_logo = "/logo.svg"

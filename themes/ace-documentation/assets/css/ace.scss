@@ -6,16 +6,17 @@
 *   @license https://github.com/vantagedesign/ace-documentation/blob/master/LICENSE
 * ------------------------------------------------------------------------ */
 
-$primary:       #1561ad; // Blue
-//$primary:       #1d1145; // Light green
-//$primary:       #82716e; //Brown
-$secondary:     #6610f2;
+$primary:       #1561ad;
+$secondary:     #4A6484;  
 $success:       #28a745;
 $info:          #17a2b8;
 $warning:       #ffc107;
 $danger:        #dc3545;
 $light:         #f8f9fa;
 $dark:          #343a40;
+$cardbg:        #fafafa;
+$cardfg:        #11A683;
+
 
 @import "bootstrap/bootstrap";
 
