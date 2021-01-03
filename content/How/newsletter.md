@@ -35,4 +35,6 @@ Make a
 [copy](https://docs.google.com/document/d/1wZfu3XBH4HK1DfIM9c6iZWq2xdKBw9-enS2BVxCgMj4/copy)
 if want to use it as a template. 
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vREf_quiJfk3PuCL9vyjh69eInxA_Zc2OhuBfJskKFKqvK1-Let4uCjtx0HXgSHFUvqb5v1IW450DGk/pub?embedded=true" width="750" height="800"></iframe>
+<div class="embed-responsive embed-responsive-1by1">
+    <iframe src="https://docs.google.com/document/d/e/2PACX-1vREf_quiJfk3PuCL9vyjh69eInxA_Zc2OhuBfJskKFKqvK1-Let4uCjtx0HXgSHFUvqb5v1IW450DGk/pub?embedded=true" ></iframe>
+</div>

@@ -10,13 +10,28 @@ weight: 3
 
 ## What does a TPM do?
 
-TPM’s role can be very diverse, it can vary in different organizations. Many times the role changes depending on the phase of the project. This provides a lot of freedom to TPMs to do their job, but it also makes it harder to define success. Navigating the ambiguity of the role can sometimes be challenging. In this section, we will cover a few examples of things and activities that a TPM does in their day-to-day operations. This isn’t a comprehensive list, neither do TPMs do everything listed here. We will cover what does it take to be successful in the job in a later section.
+The role of TPMs can be quite diverse, depending on the organization, and the
+stage of the project. This gives TPMs a great deal of freedom to do their work,
+but it also makes it harder to define success. Navigating the ambiguity of the
+role may sometimes prove difficult. In this section, we will discuss some
+examples of things and activities that a TPM does in their day-to-day
+activities. This is not an exhaustive list, and TPMs do not do everything that
+is indicated here. We will explain later what is needed to be [successful](/how)
+in the role.
 
-This section is divided into two parts:  **TPM Role - Basics** covers the core set of responsibilities a TPM might assume on any project. **TPM Role - Specialized** covers more specific topics related to org, project phase, or specialized skill set.
+This section is divided into two parts:  [**TPM Role -
+Basics**](#tpm-role-basics) covers the core set of responsibilities a TPM might
+assume on any project. [**TPM Role - Specialized**](#tpm-role-specialized)
+covers more specific topics related to org, project phase, or specialized skill
+set.
 
-### TPM Role - Basics
+### TPM Role - Basics{#tpm-role-basics}
 
-Generally, the PM defines what needs to happen and TPM is responsible for getting it done. PM vs TPM role details [here](/what/roles). TPMs are responsible for the execution of the projects and are expected to work through various aspects of product delivery. Some of the things a TPM does are the following:
+Generally, the PM defines what needs to happen and TPM is responsible for
+getting it done. PM vs TPM role details [here](/what/roles). TPMs are
+responsible for the execution of the projects and are expected to work through
+various aspects of product delivery. Some of the things a TPM does are the
+following:
 
 * **Get the right team in place:** During the initial phases of a project a TPM
   works with PM to figure out who all are needed to successfully execute the
@@ -70,7 +85,7 @@ Many organizations use the concept of beta testing the product with a small grou
 
 * **Conclude the projects with postmortems:** It’s always a good practice to end the project with a postmortem or a retrospective. Define a common template that each sub-team can use to fill up the details, this would typically be divided into 2 primary categories: What went well? And, What can be improved? You might also want to get feedback on any new specific things you introduced related to the program or processes.
 
-### TPM Role - Specialized
+### TPM Role - Specialized{#tpm-role-specialized}
 
 As the programs grow bigger, TPMs can be hired for specialized roles. If the organization has resources, a good way to scale is to build expertise for various functions. This also helps with the establishment and improvement of standard processes. TPMs in these roles are not only responsible for launch of specific programs, but their success is dependent on how well the process is run in support of the program, their core responsibility is to establish a process and constantly work on improving it. Here are a few examples of specialized roles and a brief description of each of them.
 

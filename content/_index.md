@@ -54,3 +54,39 @@ Program managers wear different hats depending on the situation, the [TPM role](
 		</div>
 	</div>
 </div>
+<div class="row py-3 mb-5">
+	<div class="col">
+		<div class="card flex-row border-0 text-center bg-cardbg rounded">
+			<div class="mt-3 ml-2">
+				<span class="fas fa-users fa-2x text-secondary"></span>
+			</div>
+			<div class="card-body pl-2">
+				<h5 class="card-title">
+					Develop soft skills
+				</h5>
+				<p class="card-text text-muted">
+                    Learn how to develop soft skills required to succeed as a TPM.
+          <a href="/soft-skills" class="stretched-link"></a>
+				</p>
+				<a href="/soft-skills" class="btn btn-primary">Soft Skills</a>
+			</div>
+		</div>
+	</div>
+	<div class="col">
+		<div class="card flex-row border-0 text-center bg-cardbg rounded">
+			<div class="mt-3 ml-2">
+				<span class="fas fa-handshake fa-2x text-secondary"></span>
+			</div>
+			<div class="card-body pl-2">
+				<h5 class="card-title">
+					TPM interview prep
+				</h5>
+				<p class="card-text text-muted">
+					WIP in progress, how to prepare for TPM interviews.
+          <a href="/tpm-interviews" class="stretched-link"></a>
+				</p>
+				<a href="/tpm-interviews" class="btn btn-primary">Prepare for TPM interviews</a>
+			</div>
+		</div>
+	</div>
+</div>
