@@ -24,7 +24,7 @@ Depending on your skills and job level, preparing for
 TPM interviews may take several weeks of effort. Start with doing a bit of
 research on the company and the specific role you have applied for. Explore what
 is expected of the role based on the job description and your recruiter call.
-Make a list of common questions expected during the interview; reflect on how
+Make a list of anticipated questions; reflect on how
 you would respond to each question. It is common practice to ask a few
 scenario-based questions during the interviews; delve into your experiences to
 find examples of different situations you have encountered. Knowing the answers
@@ -33,8 +33,8 @@ communication skills is important. Rehearse delivering your answers.
 
 I've done hundreds of TPM interviews, and it usually only takes the first few
 minutes to get a directional insight into how the rest of the interview would
-go. Be prepared for the “Tell Me About You” question, practice the short and long
-versions of the response. Be prepared to answer questions on what you said in
+go. Be prepared for the “Tell Me About You” question; practice the short and long
+versions of the response. Be ready to answer questions on what you said in
 the introductions. Also, be prepared to respond to anything related to what is
 written in your résumé. 
 

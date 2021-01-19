@@ -5,17 +5,17 @@ tags = [ "TPM", "Technical Program Manager", "Program Manager", "Engineering Pro
 +++
 
 {{< lead >}}
-Technical Program managers make things happen, they get the projects done. They create [scalable processes](/how/team_process/) that help teams make tangible progress towards project goals. This site discusses the role of a (Technical) Program Manager, explains [what](/what/) they do, and [how](/how/). You will learn more about the role of a Technical Program Manager in a hi-tech, fast-paced software development environment.
+Technical Program managers make things happen; they get the projects done. They create [scalable processes](/how/team_process/) that help teams make tangible progress towards project goals. This site discusses the role of a (Technical) Program Manager, explains [what](/what/) they do, and [how](/how/). You will learn more about the role of a Technical Program Manager in a hi-tech, fast-paced software development environment.
 {{< /lead >}}
 
-<br>I have used the terms Project Manager, Program Manager, and Technical Program Manager (TPM) interchangeably as I believe the majority of the role is still the same. Subtle differences in these roles are explained [here](/what/roles/#pgm-and-tpm). At a high level, program managers:
+<br>I have used the terms Project Manager, Program Manager, and Technical Program Manager (TPM) interchangeably as I believe most of the role is still the same. Subtle differences in these roles are explained [here](/what/roles/#pgm-and-tpm). At a high level, program managers:
 
-* Get things done
-* Bring order to chaos
-* Bring clarity to situations
-* Ensure team is always making progress
+* Get things done.
+* Bring order to chaos.
+* Bring clarity to situations.
+* Ensure team is always making progress.
 
-Program managers wear different hats depending on the situation, the [TPM role](what/tpm_role/) has so much to offer. People typically become a program manager to gain experience in the technical and business domain. The position forms an integral part of a team. I think about this role as a center in the “Hub and spoke” model. Good program managers know the pulse of their projects, become the central source of information, and are accountable for moving projects forward.
+Program managers wear different hats depending on the situation. The [TPM role](what/tpm_role/) has so much to offer. People typically become program managers to gain experience in the technical and commercial domain. The position forms an integral part of a team. I think about this role as a center in the “Hub and spoke” model. Good program managers know the pulse of their projects, become the central source of information, and are accountable for moving projects forward.
 
 ## Learn More
 <div class="row py-3 mb-5">
