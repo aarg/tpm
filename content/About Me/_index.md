@@ -1,7 +1,7 @@
 +++
 title = "About Me"
 description = ""
-weight = 6
+weight = 7
 disableReadmoreNav = true
 +++
 

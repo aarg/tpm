@@ -82,7 +82,7 @@ Program managers wear different hats depending on the situation. The [TPM role](
 					TPM interview prep
 				</h5>
 				<p class="card-text text-muted">
-					WIP in progress, how to prepare for TPM interviews.
+					Work in progress, how to prepare for TPM interviews.
           <a href="/tpm-interviews" class="stretched-link"></a>
 				</p>
 				<a href="/tpm-interviews" class="btn btn-primary">Prepare for TPM interviews</a>
