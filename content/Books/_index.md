@@ -10,7 +10,7 @@ weight = 5
 <div class="card flex-row flex-wrap rounded-10">
     <div class="card-header">
         <img src="/MakingThingsHappen_books.jpg" class="img-fluid"  alt=" Making Things Happen" style="width: 110px; height: 150px;">
-        <a href="https://www.amazon.com/Making-Things-Happen-Mastering-Management/dp/0596517718" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/3cs05tc" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">Making Things Happen: Mastering Project Management (Theory in Practice)</h4>
@@ -24,7 +24,7 @@ weight = 5
 <div class="card flex-row flex-wrap rounded-10">
     <div class="card-header">
         <img src="/AgileEstimationAndPlanning_books.jpg" class="img-fluid"  alt="Agile Estimating and Planning" style="width: 110px; height: 150px;">
-        <a href="https://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/2MIYjc8" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">Agile Estimating and Planning</h4>
@@ -39,7 +39,7 @@ weight = 5
 <div class="card flex-row flex-wrap">
     <div class="card-header">
         <img src="/EssantialScrum_books.jpg" class="img-fluid"  alt="Essential Scrum: A Practical Guide to the Most Popular Agile Process" style="width: 110px; height: 150px;">
-        <a href="https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295/" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/2Yt6wUP" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">Essential Scrum: A Practical Guide to the Most Popular Agile Process</h4>
@@ -55,7 +55,7 @@ weight = 5
 <div class="card flex-row flex-wrap">
     <div class="card-header">
         <img src="/CrucialConversations_books.jpg" class="img-fluid"  alt="Crucial Conversations Tools for Talking When Stakes Are High" style="width: 110px; height: 150x;">
-        <a href="https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071775307/" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/36rswU9" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">Crucial Conversations Tools for Talking When Stakes Are High</h4>
@@ -70,7 +70,7 @@ weight = 5
 <div class="card flex-row flex-wrap">
     <div class="card-header">
         <img src="/DifficultConversations_books.jpg" class="img-fluid"  alt="Difficult Conversations: How to Discuss What Matters Most" style="width: 110px; height: 150px;">
-        <a href="https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/36o8Nos" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">Difficult Conversations: How to Discuss What Matters Most</h4>
@@ -85,7 +85,7 @@ weight = 5
 <div class="card flex-row flex-wrap">
     <div class="card-header">
         <img src="/GettingToYes_books.jpg" class="img-fluid"  alt="Getting to Yes: Negotiating Agreement Without Giving In" style="width: 110px; height: 150x;">
-        <a href="https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/2NS5EXJ" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">Getting to Yes: Negotiating Agreement Without Giving In</h4>
@@ -101,7 +101,7 @@ weight = 5
 <div class="card flex-row flex-wrap">
     <div class="card-header">
         <img src="/ThinkingFastAndSlow_books.jpg" class="img-fluid"  alt="Thinking, Fast and Slow" style="width: 110px; height: 150x;">
-        <a href="https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/2Mn3QFz" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">Thinking, Fast and Slow</h4>
@@ -116,7 +116,7 @@ weight = 5
 <div class="card flex-row flex-wrap">
     <div class="card-header">
         <img src="/Decisive_books.jpg" class="img-fluid"  alt="Decisive: How to Make Better Choices in Life and Work" style="width: 110px; height: 150x;">
-        <a href="https://www.amazon.com/Decisive-Make-Better-Choices-Life/dp/0307956393/" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/3crVabQ" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">Decisive: How to Make Better Choices in Life and Work</h4>
@@ -132,7 +132,7 @@ weight = 5
 <div class="card flex-row flex-wrap">
     <div class="card-header">
         <img src="/theDip_books.jpg" class="img-fluid"  alt="The Dip: A Little Book That Teaches You When to Quit" style="width: 110px; height: 150px;">
-        <a href="https://www.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666/" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/2Mb9dYF" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">The Dip: A Little Book That Teaches You When to Quit</h4>
@@ -147,7 +147,7 @@ weight = 5
 <div class="card flex-row flex-wrap">
     <div class="card-header">
         <img src="/First90Days_books.jpg" class="img-fluid"  alt="The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter" style="width: 110px; height: 150x;">
-        <a href="https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612/" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/36tn1Ex" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter</h4>
@@ -163,7 +163,7 @@ weight = 5
 <div class="card flex-row flex-wrap">
     <div class="card-header">
         <img src="/linchpin_books.jpg" class="img-fluid"  alt="Linchpin: Are You Indispensable?" style="width: 110px; height: 150px;">
-        <a href="https://www.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096/" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/3r3NAYQ" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">Linchpin: Are You Indispensable?</h4>
@@ -178,7 +178,7 @@ weight = 5
 <div class="card flex-row flex-wrap">
     <div class="card-header">
         <img src="/theWarofArt_books.jpg" class="img-fluid"  alt="The War of Art: Break Through the Blocks and Win Your Inner Creative Battles" style="width: 110px; height: 150x;">
-        <a href="https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/3qYBXCy" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">The War of Art: Break Through the Blocks and Win Your Inner Creative Battles</h4>
@@ -193,7 +193,7 @@ weight = 5
 <div class="card flex-row flex-wrap">
     <div class="card-header">
         <img src="/goals_books.jpg" class="img-fluid"  alt="Goals: How to Get the Most Out of Your Life" style="width: 110px; height: 150px;">
-        <a href="https://www.amazon.com/Goals-How-Most-Your-Life/dp/1640950907/" target="_blank" ></a>
+        <a href="https://amzn.to/2L1XKtA" target="_blank" ></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">Goals: How to Get the Most Out of Your Life</h4>
@@ -201,9 +201,9 @@ weight = 5
         <p class="card-text mt-2 text-dark">
         Ziglar famously said: “<i>You will get all you want in life if you help enough other people get what they want."</i> His books are a guide to a way of life.
         <ul>
-            <li> <a href="https://www.amazon.com/Goals-How-Most-Your-Life/dp/1640950907"> Goals: How to Get the Most Out of Your Life </a> </li> 
-            <li> <a href="https://www.amazon.com/See-You-Top-25th-Anniversary/dp/1565547063/"> See You at the Top </a> </li> 
-            <li> <a href="https://www.amazon.com/Born-win-Zig-Ziglar-Tom/dp/9351869741"> Born to Win: Find Your Success </a> </li>
+            <li> <a href="https://amzn.to/2L1XKtA"> Goals: How to Get the Most Out of Your Life </a> </li> 
+            <li> <a href="https://amzn.to/3cq0Ym1"> See You at the Top </a> </li> 
+            <li> <a href="https://amzn.to/3r991bc"> Born to Win: Find Your Success </a> </li>
         </ul>
         </p>
     </div>
@@ -213,7 +213,7 @@ weight = 5
 <div class="card flex-row flex-wrap">
     <div class="card-header">
         <img src="/HBR_books.jpg" class="img-fluid"  alt="HBR's 10 Must Reads Ultimate Boxed Set" style="width: 110px; height: 150x;">
-        <a href="https://www.amazon.com/HBRs-Reads-Ultimate-Boxed-Books/dp/1633693155/" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/3ctOWrM" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">HBR's 10 Must Reads Ultimate Boxed Set</h4>
@@ -228,7 +228,7 @@ weight = 5
 <div class="card flex-row flex-wrap">
     <div class="card-header">
         <img src="/tdc_books.jpg" class="img-fluid"  alt="Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell" style="width: 110px; height: 150px;">
-        <a href="https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268/" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/3ckSf4C" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell</h4>
@@ -242,7 +242,7 @@ weight = 5
 <div class="card flex-row flex-wrap">
     <div class="card-header">
         <img src="/rc_books.jpg" class="img-fluid"  alt="Radical Candor (Be a Kick-Ass Boss Without Losing Your Humanity" style="width: 110px; height: 150px;">
-        <a href="https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375/" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/3tbMD2v" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">Radical Candor (Be a Kick-Ass Boss Without Losing Your Humanity</h4>
@@ -256,7 +256,7 @@ weight = 5
 <div class="card flex-row flex-wrap">
     <div class="card-header">
         <img src="/tmp_books.jpg" class="img-fluid"  alt="The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change" style="width: 110px; height: 150px;">
-        <a href="https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/" target="_blank" class="stretched-link"></a>
+        <a href="https://amzn.to/36rAcG8" target="_blank" class="stretched-link"></a>
     </div>
     <div class="card-block pl-3 pt-3 col-sm-10">
         <h4 class="card-title">The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change</h4>
