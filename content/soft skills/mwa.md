@@ -34,7 +34,7 @@ without having authority over individuals:
       work. Prepare the chase lists for each milestone and track progress.
       Publish dashboards with the status of each task.
    3. **Good meeting hygiene and follow-up on AIs via emails/meeting notes:**
-      IIf the tools allow, present the live meeting notes while running
+      If the tools allow, present the live meeting notes while running
       the meeting. It helps establish a common understanding of what’s being
       discussed. Clearly state the Action Items from the meeting, make sure the
       assignee well understands the actions. Ask for an ETA or an ‘ETA for an
@@ -49,14 +49,14 @@ project I mentioned at the beginning had critical path dependencies outside
    part of the Eng team I was on, yet their work was required for the full
    product development. Here are a few ideas on how to effectively run such
    projects.
-   1. **Cultivate relationships with champions** on other teams: Identify a
-      champion in each of your partner teams. A champion would help you push
-      along your project and work closely with you to get things back on
-      track if they ever go sideways. Generally, this would be a PM, TPM, TL, or somebody who can substantially influence the team.
-   2. **Create a shared vision and roadmap** e.g joint OKRs: If your team
+   1. **Create a shared vision and roadmap** e.g joint OKRs: If your team
       follows a quarterly OKR process for prioritizing work across the team then
       it’s also a good tool for cross-team alignment. Work with other teams to
       create a joint OKR with specific objectives related to your project.
+   2. **Cultivate relationships with champions** on other teams: Identify a
+      champion in each of your partner teams. A champion would help you push
+      along your project and work closely with you to get things back on
+      track if they ever go sideways. Generally, this would be a PM, TPM, TL, or somebody who can substantially influence the team.   
    3. **Exec level agreements:** It’s good to have cross-team exec reviews to
       align on project goals, milestones, and deliverables from each team. It’s
       critical to do this at the beginning of the project to get the right
