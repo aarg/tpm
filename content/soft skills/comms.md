@@ -9,6 +9,7 @@ weight = 4
   <img src="/comms.png" class="img-fluid " alt="Roles">
 </div>
 <br>
+
 Effective communication is a critical element to the success of any program
 manager. **Clear and transparent** communication ensures everyone is on the same
 page and moves the projects forward. 
@@ -56,7 +57,7 @@ information. Having a single source of truth avoids misunderstanding and gets
 everyone on the same page. 
 
 Be consistent with status reporting. Design the format and
-[color-coding](how/traffic_signals) scheme for your updates. 
+[color-coding](/how/project_status_colors) scheme for your updates. 
 
 Be clear. Be precise. Get to the point, fast. 
 
